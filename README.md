@@ -23,7 +23,7 @@ Launch the Application: Execute the generated application executable or deploy t
 Access the Application: Use the provided API endpoints to retrieve location information based on IP addresses.
 
 Documentation
-For detailed documentation and usage instructions, please refer to the project's GitHub repository: https://github.com/RJavaDev/IP-Address-Get-Location
+For detailed documentation and usage instructions, please refer to the project's GitHub repository: https://github.com/RJavaDev/ip-address-get-location
 
 Contact
 If you have any questions or inquiries, feel free to reach out:
